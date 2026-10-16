@@ -1,3 +1,9 @@
+## [1.12.3](https://github.com/timo-reymann/mealie-calorie-estimator/compare/v1.12.2...v1.12.3) (2026-10-16)
+
+### Bug Fixes
+
+* preserve existing recipe extras when patching estimates ([#33](https://github.com/timo-reymann/mealie-calorie-estimator/issues/33)) ([169769d](https://github.com/timo-reymann/mealie-calorie-estimator/commit/169769ddcf69661d621ff968b1927a6970991cfe)), closes [#32](https://github.com/timo-reymann/mealie-calorie-estimator/issues/32)
+
 ## [1.12.2](https://github.com/timo-reymann/mealie-calorie-estimator/compare/v1.12.1...v1.12.2) (2026-10-03)
 
 ### Bug Fixes
